@@ -1,4 +1,7 @@
 # python-src-base
+
+- git checkout dev
+
 - pip install -r requirements.txt
 
 - add config.json
