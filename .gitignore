@@ -1,0 +1,7 @@
+config.json
+__pycache__/
+.idea
+*/__pycache__/
+*/*/__pycache__/
+locale/*/LC_MESSAGES/*.mo
+/src/*/migrations/*.py
