@@ -1,0 +1,5 @@
+class MessageCode(object):
+    EMAIL_001 = 'EMAIL_001'
+    EMAIL_002 = 'EMAIL_002'
+    USERNAME_001 = 'USERNAME_001'
+    PASSWORD_001 = 'PASSWORD_001'
